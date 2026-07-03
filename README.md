@@ -59,7 +59,6 @@ Bounding Box Visualization
 ## Hardware Requirements
 
 - ESP32-CAM (AI Thinker)
-- FTDI / USB-to-TTL Programmer
 - WiFi Network
 - Laptop / PC
 - Industrial Pipe Clamp Dataset
